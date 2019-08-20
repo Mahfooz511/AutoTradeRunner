@@ -1,0 +1,80 @@
+[{'average_price': 910.4417
+ 'cancelled_quantity': 0
+ 'disclosed_quantity': 0
+ 'exchange': 'NFO'
+ 'exchange_order_id': '1300000000307084'
+ 'exchange_timestamp': '2017-08-24 09:19:16'
+ 'filled_quantity': 3000
+ 'instrument_token': 16622850
+ 'market_protection': 0
+ 'order_id': '170824000051023'
+ 'order_timestamp': '2017-08-24 09:19:16'
+ 'order_type': 'MARKET'
+ 'parent_order_id': None
+ 'pending_quantity': 0
+ 'placed_by': 'DM2565'
+ 'price': 0
+ 'product': 'NRML'
+ 'quantity': 3000
+ 'status': 'COMPLETE'
+ 'status_message': None
+ 'tag': None
+ 'tradingsymbol': 'INFY17AUGFUT'
+ 'transaction_type': 'BUY'
+ 'trigger_price': 0
+ 'validity': 'DAY'
+ 'variety': 'regular'}
+ 
+ {'average_price': 126.8
+ 'cancelled_quantity': 0
+ 'disclosed_quantity': 0
+ 'exchange': 'NSE'
+ 'exchange_order_id': '1000000003435576'
+ 'exchange_timestamp': '2017-08-24 13:24:19'
+ 'filled_quantity': 1
+ 'instrument_token': 112129
+ 'market_protection': 0
+ 'order_id': '170824000667697'
+ 'order_timestamp': '2017-08-24 13:24:19'
+ 'order_type': 'MARKET'
+ 'parent_order_id': None
+ 'pending_quantity': 0
+ 'placed_by': 'DM2565'
+ 'price': 0
+ 'product': 'MIS'
+ 'quantity': 1
+ 'status': 'COMPLETE'
+ 'status_message': None
+ 'tag': None
+ 'tradingsymbol': 'BHEL'
+ 'transaction_type': 'SELL'
+ 'trigger_price': 0
+ 'validity': 'DAY'
+ 'variety': 'regular'}
+ 
+ {'average_price': 127.2
+ 'cancelled_quantity': 0
+ 'disclosed_quantity': 0
+ 'exchange': 'NSE'
+ 'exchange_order_id': '1000000004907517'
+ 'exchange_timestamp': '2017-08-24 15:21:58'
+ 'filled_quantity': 1
+ 'instrument_token': 112129
+ 'market_protection': 0
+ 'order_id': '170824000909035'
+ 'order_timestamp': '2017-08-24 15:21:58'
+ 'order_type': 'MARKET'
+ 'parent_order_id': None
+ 'pending_quantity': 0
+ 'placed_by': 'ADMINSQF1'
+ 'price': 0
+ 'product': 'MIS'
+ 'quantity': 1
+ 'status': 'COMPLETE'
+ 'status_message': None
+ 'tag': None
+ 'tradingsymbol': 'BHEL'
+ 'transaction_type': 'BUY'
+ 'trigger_price': 0
+ 'validity': 'DAY'
+ 'variety': 'regular'}]
